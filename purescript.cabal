@@ -62,6 +62,7 @@ library
                      Language.PureScript.CoreFn.Binders
                      Language.PureScript.CoreFn.Desugar
                      Language.PureScript.CoreFn.Expr
+                     Language.PureScript.CoreFn.Evaluator
                      Language.PureScript.CoreFn.Literals
                      Language.PureScript.CoreFn.Meta
                      Language.PureScript.CoreFn.Module
